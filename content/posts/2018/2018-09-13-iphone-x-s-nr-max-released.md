@@ -1,7 +1,7 @@
 ---
 title: "iPhone X S NR Max Released"
 date: 2018-09-13
-draft: false
+
 
 ---
 

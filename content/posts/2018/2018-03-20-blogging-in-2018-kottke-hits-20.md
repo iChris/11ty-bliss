@@ -1,7 +1,7 @@
 ---
 title: "Blogging in 2018 - Kottke Hits 20"
 date: 2018-03-20
-draft: false
+
 
 ---
 

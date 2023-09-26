@@ -1,7 +1,7 @@
 ---
 title: "Luminary Doesn't Want to Be the Netflix of Podcasting"
 date: 2019-03-07
-draft: false
+
 
 ---
 

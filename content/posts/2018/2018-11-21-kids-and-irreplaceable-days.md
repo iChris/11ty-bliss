@@ -1,7 +1,7 @@
 ---
 title: "Kids and Irreplaceable Days"
 date: 2018-11-21
-draft: false
+
 
 ---
 

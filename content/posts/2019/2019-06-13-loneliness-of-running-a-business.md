@@ -1,7 +1,7 @@
 ---
 title: "Loneliness of Running a Business"
 date: 2019-06-13
-draft: false
+
 
 ---
 

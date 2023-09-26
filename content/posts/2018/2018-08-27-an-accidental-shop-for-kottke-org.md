@@ -1,7 +1,7 @@
 ---
 title: "An Accidental Shop for Kottke.org"
 date: 2018-08-27
-draft: false
+
 
 ---
 
