@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: MacStories Best Apps of 2022
 date: 2022-12-22T05:56:16.896Z
 tags:

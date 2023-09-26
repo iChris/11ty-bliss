@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: There's Something Worthwhile About This Exposure
 date: 2023-07-05T05:56:16.896Z
 tags:

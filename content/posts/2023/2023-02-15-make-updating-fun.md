@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Make Updating Software Fun Again
 socialImage: /images/Arc-is-ready-to-update.jpg
 date: 2023-02-15T02:56:16.896Z

@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Experimenting with Instagram
 metaTitle: Uninstalling the app, unfollowing the brands.
 socialImage: /images/alex-bracken-x8wqd0uysfa-unsplash.jpg

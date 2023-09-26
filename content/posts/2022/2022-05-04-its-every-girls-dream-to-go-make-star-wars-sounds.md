@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: It's Every Girl's Dream to Go Make Star Wars Sounds
 socialImage: /images/behind-the-mac-starwars-sounds.jpg
 date: 2022-05-04T14:27:20.763Z

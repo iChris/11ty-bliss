@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Rocket League Follows Fortnite Free to Play Model
 socialImage: /images/rocketleague.webp
 date: 2020-07-21T22:56:26.846Z

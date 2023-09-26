@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Dropbox Introduces New Features Nobody Wants
 socialImage: /images/dropbox.jpg
 date: 2020-06-16T17:49:14.592Z

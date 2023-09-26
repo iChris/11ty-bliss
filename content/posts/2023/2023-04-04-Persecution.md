@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Christian Persecution
 date: 2023-04-04T05:56:16.896Z
 tags:

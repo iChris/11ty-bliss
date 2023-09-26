@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Beautiful Day (Songs of Surrender)
 date: 2023-03-03T07:56:16.896Z
 tags:

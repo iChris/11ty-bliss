@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Tearing Twitter Down is Easy
 date: 2023-03-30T05:56:16.896Z
 tags:

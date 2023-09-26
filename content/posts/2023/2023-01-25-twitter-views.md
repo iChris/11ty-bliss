@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Twitter's Points are Made Up
 socialImage: /images/twitter-made-up-views.jpg
 date: 2023-01-25T05:56:16.896Z

@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Seeing U2 for the First Time
 date: 2020-06-24T21:31:30.037Z
 tags:

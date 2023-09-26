@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Weather Strip for iOS
 date: 2022-12-23T05:56:16.896Z
 tags:

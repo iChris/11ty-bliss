@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Calling Out Toxic and Abusive Behaviour in the Church
 date: 2023-02-28T05:56:16.896Z
 tags:

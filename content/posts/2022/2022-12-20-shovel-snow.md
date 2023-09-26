@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Shovelling the Driveway Takes Time
 date: 2022-12-20T08:56:16.896Z
 tags:

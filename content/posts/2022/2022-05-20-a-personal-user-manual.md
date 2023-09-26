@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: A Personal User Manual
 socialImage: /images/collaborate.jpg
 date: 2022-05-20T15:14:04.115Z

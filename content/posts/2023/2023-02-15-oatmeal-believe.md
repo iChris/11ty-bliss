@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Belief and Your Amygdala
 socialImage: /images/Oatmeal-belief-amygdala.jpg
 date: 2023-02-15T02:56:16.896Z

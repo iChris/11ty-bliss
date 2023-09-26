@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Upgrading Shaw Home Internet to Rogers Ignite 1.5G 
 date: 2023-08-25T05:56:16.896Z
 tags:

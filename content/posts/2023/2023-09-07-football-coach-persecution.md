@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: The Fakest Praying Coach
 date: 2023-09-07T05:56:16.896Z
 tags:

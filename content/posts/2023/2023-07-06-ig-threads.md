@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Instagram Launches Threads - How Meta
 socialImage: /images/meta-threads.png
 date: 2023-07-06T05:56:16.896Z

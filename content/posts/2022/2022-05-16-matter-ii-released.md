@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Matter II Released
 socialImage: /images/matter-queue.webp
 date: 2022-05-16T17:53:58.442Z

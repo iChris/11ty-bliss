@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Where You Should Host Your Newsletter That Isn't Substack
 date: 2023-06-23T05:56:16.896Z
 tags:

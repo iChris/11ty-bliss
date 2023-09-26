@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: When to Upgrade My Mac - 5 Months Later
 date: 2023-06-12T05:56:16.896Z
 tags:

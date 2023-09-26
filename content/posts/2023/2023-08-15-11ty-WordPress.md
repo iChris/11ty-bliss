@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Exporting Eleventy Blog Posts to WordPress Issues
 date: 2023-08-15T05:56:16.896Z
 ---

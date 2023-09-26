@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Things I’m Looking Forward to in iOS 17, macOS Sonoma, and tvOS
 date: 2023-06-10T05:56:16.896Z
 tags:

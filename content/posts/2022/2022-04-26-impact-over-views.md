@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Impact Over Views
 date: 2022-04-26T02:56:42.363Z
 socialImage: /images/impactoverviews.jpg

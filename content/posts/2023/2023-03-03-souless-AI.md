@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: AI Is Just Adding to the Noise
 date: 2023-03-03T05:56:16.896Z
 tags:

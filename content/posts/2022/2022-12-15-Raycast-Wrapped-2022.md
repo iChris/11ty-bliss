@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: Raycast Wrapped 2022
 date: 2022-12-15T15:56:16.896Z
 tags:

@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: When To Upgrade My Mac
 date: 2022-12-19T15:56:16.896Z
 tags:
