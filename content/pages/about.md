@@ -1,6 +1,6 @@
 ---
 title: About
-description: There are many variations of passages of Lorem Ipsum available.
+description: About page details.
 eleventyNavigation:
   key: About
   order: 1
@@ -8,14 +8,28 @@ disclaimer:
   text: This is a text disclaimer. It will be visible on the page.
 ---
 
-<img src="/images/kitty.jpg" alt="" class="myphoto" />
+**{{ siteConfig.site.title }}**  is written by {{ siteConfig.author.name }} (surprise!), a podcast editor & producer living in Saskatoon, Saskatchewan, Canada.
 
-I'm {{ siteConfig.author.name }}.
+I run [Lemon Productions](https://www.lemonproductions.ca/), where I help people & businesses build, launch, edit, and produce podcasts. What kind of podcasts? [Take a look at my portfolio](https://www.lemonproductions.ca/portfolio).
 
-**{{ siteConfig.site.title }}** is my blog.
+### Client Sample
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
+<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/b88889d0"></iframe>
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+I also run a podcast network with friends called [Goodstuff](https://goodstuff.network/).
 
-Image credit: [Orange Tabby Cat on Brown Knitted Textile by Alena Koval](https://www.pexels.com/photo/orange-tabby-cat-on-brown-knitted-textile-982300/)
+### Personal Podcast Sample
+
+<a href="https://share.transistor.fm/e/25c-an-apple-arcade-review-podcast/latest">Listen here.</a>
+
+## This Blog
+
+I started this website in 2002 with [this very insightful post](https://chrisenns.com/2002/05/going-to-edmonchuck/). My initial run of posts reads more like how we tweet these days. Not really worth going back to read but I'm a sucker for archiving all the things.
+
+### Subscribe via RSS
+
+If you'd like to subscribe to my blog via your favorite RSS reader (RIP Google Reader), use this link: [https://chrisenns.com/feed.xml](https://chrisenns.com/feed.xml).
+
+I personally use [Feedbin](https://feedbin.com/) these days along with [NetNewsWire for macOS and iOS](https://ranchero.com/netnewswire/).
+
+You can see more of the software and hardware I recommend [here](https://chrisenns.com/uses/).
